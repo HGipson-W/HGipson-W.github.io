@@ -1,2 +1,3 @@
-### Henry Gipson - Business Intelligence Analyst and Data Scientist
+### Henry Gipson  
+## Business Intelligence Analyst and Data Scientist
 Public Facing Portfolio Website
